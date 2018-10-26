@@ -1,4 +1,4 @@
-package 1291;
+package test;
 
 /**
  * Hello world!
